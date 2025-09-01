@@ -15,4 +15,4 @@ Snowflake ID generator for Golang, supports int64 numeric IDs, thread-safe, and 
 Using Go modules:
 
 ```bash
-go get github.com/haritsyp/go-snowflake
+go get github.com/haritsyp/snowflake
